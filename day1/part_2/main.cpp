@@ -7,6 +7,7 @@
 #include <vector>
 
 
+// Test
 void read_left_and_right(std::vector<double> &direction, const std::string file_name){
 
     std::ifstream myfile(file_name, std::ios::in);
